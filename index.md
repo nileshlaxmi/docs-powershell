@@ -124,7 +124,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell in Azure Cloud Shell</h3>
-                                            <p>PowerShell in Azure Cloud Shell is now availlable in public preview. Learn more!</p>
+                                            <p>PowerShell in Azure Cloud Shell is now available in public preview. Learn more!</p>
                                         </div>
                                     </div>
                                 </div>
